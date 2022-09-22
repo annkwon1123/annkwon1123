@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kwon Soyeon @annkwon1123
-- 👀 I’m interested in ...
+- 👀 I’m interested in Playing the instruments and Running
 - 🌱 I’m currently learning programing language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me annkwon1123@gmail.com
 
 <!---
 annkwon1123/annkwon1123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
