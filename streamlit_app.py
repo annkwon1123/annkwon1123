@@ -9,9 +9,8 @@ accident-data.
 
 df = pd.read_csv('./output.csv')
 x = st.slider('x')  # 👈 this is a widget
-y = df.cloumns
 st.write(x, 'squared is', x * x)
-st.write(y)
+st.write(df)
 st.text_input("Your name", key="name")
 
 # You can access the value at any point with:
