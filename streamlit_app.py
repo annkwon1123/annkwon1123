@@ -7,8 +7,8 @@ st.write("""
 accident-data.
 """)
 
-df = pd.read_csv('output.csv')
-x = st.slider('x')  # 👈 this is a widget
+df = pd.read_csv("output.csv")
+x = st.slider('x') # 👈 this is a widget
 st.write(x, 'squared is', x * x)
 st.write(df)
 st.text_input("Your name", key="name")
