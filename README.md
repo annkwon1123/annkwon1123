@@ -10,7 +10,7 @@ Linux kernel Study(2023.03 - 2023.06, 4months)
 Reverse Engineering Study (2023.09 - 2023.12, 4 months)
     
 `🏦 하나금융 디지털 파워온 프로젝트 2기`   
-아마존 클라우드(AWS) 공인교육 - 디지털 인재 양성과정 중 일부     
+아마존 클라우드(AWS) 공인교육 - 디지털금융인재 양성과정 중 일부     
 3인 개발: 소비데이터 분석기반 마케팅 서비스 개발 [AiFi의 WiFi블로그](https://blog.naver.com/annkwon11234)      
 Team AiFi(AI + Finance) Project Manager (2023.06 - 2023.12, 6 months)    
        
