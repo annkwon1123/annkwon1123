@@ -6,8 +6,8 @@
 ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 4학년)
 
 `🏮 우분투 한국 커뮤니티 Ubuntu Korea`     
-2023 우분투 번역 워크샵 [커뮤니티 활동 후기](https://annkwon1123.tistory.com/38)    
-2023 Ubucon Korea [커뮤니티 활동 후기](https://annkwon1123.tistory.com/46)
+2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
+2023 Ubucon Korea [컨퍼런스 후기](https://annkwon1123.tistory.com/46)
      
 `🔐 보안 학회 Hycube`     
 Linux kernel Study(2023.03 - 2023.06, 4months)     
