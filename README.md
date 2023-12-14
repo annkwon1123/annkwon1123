@@ -26,8 +26,8 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
      
 ### *2. Certification* 🏅
 
-`CPMS 민간 프로젝트 경영사` `⚙️ 정보처리기사 (예정)` `⛅️ 아마존클라우드 아키텍처 자격증 (예정)`     
-`🐘 SQLD (예정)`    
+`CPMS 민간 프로젝트 경영사` `정보처리기사 (예정)` `AWS 아마존클라우드 아키텍처 자격증 (예정)`     
+`SQLD : SQL 개발자 (예정)` `괴태 B2 (예정)` `HSK 5급 (예정)`    
 
 
 
