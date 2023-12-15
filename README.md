@@ -43,7 +43,8 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
 ### *2. Certification* 🏅
 
 `CPMS 프로젝트 경영사` `정보처리기사 (예정)` `AWS Certified Solutions Architect - Associate (예정)`
-`SQLD (예정)` `괴태 B2 (예정)` `HSK 5급 (예정)`    
+`SQLD (예정)`     
+`괴태 B2 (예정)` `HSK 5급 (예정)`    
 
 
 
