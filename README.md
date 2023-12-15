@@ -37,7 +37,7 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
  
 `🇩🇪 아마존 클라우드 SaaS 프로젝트 (예정)`
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2l&logoColor=white">     
+<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white">     
 1인 개발: 교환학생 생필품 공유 플랫폼을 교환기간동안 운영해 볼 예정 (2024.03 - 2025.02)    
      
 ### *2. Certification* 🏅
