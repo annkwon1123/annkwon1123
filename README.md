@@ -13,7 +13,7 @@ ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 
 Linux kernel Study(2023.03 - 2023.06, 4months)     
 Reverse Engineering Study (2023.09 - 2023.12, 4 months)     
     
-`🏦 하나금융 디지털 파워온 프로젝트 2기`
+`🏦 하나금융 디지털 파워온 프로젝트 2기` 
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
@@ -21,7 +21,7 @@ Reverse Engineering Study (2023.09 - 2023.12, 4 months)
 <img src="https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white">     
 아마존 클라우드(AWS) 공인교육 - 디지털금융인재 양성과정 중 일부     
 3인 개발: 소비데이터 분석기반 마케팅 서비스 개발 [AiFi의 WiFi블로그](https://blog.naver.com/annkwon11234)   
-Team AiFi(AI + Finance) Project Manager (2023.06 - 2023.12, 6 months)      
+Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)      
        
 `🥜 산학 캡스톤 디자인 프로젝트`
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
@@ -29,14 +29,15 @@ Team AiFi(AI + Finance) Project Manager (2023.06 - 2023.12, 6 months)
 5인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
 Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 months)   
 
-`🤖 지능형로봇 융합디자인 혁신인재 양성과정 (예정)`     
+`🤖 지능형로봇 융합디자인 혁신인재 양성과정 (예정)` 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">      
+(2024.03 - 2024.06, 4 months)  
       
 `🇩🇪 아마존 클라우드 SaaS 프로젝트 (예정)`
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white">     
-1인 개발: 교환학생 생필품 공유 플랫폼을 교환기간동안 운영해 볼 예정 (2024.03 - 2025.02)    
+1인 개발: 교환학생 생필품 공유 플랫폼을 교환기간동안 운영해 볼 예정 (2024.03 - 2025.02, 11 months)    
      
 ### *2. Certification* 🏅
 
