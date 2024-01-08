@@ -24,9 +24,11 @@ Reverse Engineering Study (2023.09 - 2023.12, 4 months)
 Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)      
        
 `🥜 산학 캡스톤 디자인 프로젝트`
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=firebase&logoColor=white">    
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=reactjs&logoColor=white">
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">    
 5인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
 Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 months)   
 
