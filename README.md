@@ -29,7 +29,7 @@ Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)
 <img src="https://img.shields.io/badge/html-FFCA28?style=flat&logo=html&logoColor=white">
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">    
-5인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
+4인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
 Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 months)   
 
 `🤖 지능형로봇 융합디자인 혁신인재 양성과정 (예정)` 
@@ -40,8 +40,7 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
 ### *2. Certification* 🏅
 
 `CPMS 프로젝트 경영사` `정보처리기사 (예정)` `AWS Certified Solutions Architect - Associate (예정)`
-`SQLD (예정)`     
-`괴태 B2 (예정)` `HSK 5급 (예정)`    
+`SQLD (예정)` `HSK 5급 (예정)`    
 
 
 
