@@ -13,7 +13,7 @@ ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 
 Linux kernel Study(2023.03 - 2023.06, 4months)     
 Reverse Engineering Study (2023.09 - 2023.12, 4 months)     
     
-`🏦 하나금융 디지털 파워온 프로젝트 2기` 
+`🏦 하나금융 디지털 파워온 프로젝트 2기`
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
@@ -24,9 +24,10 @@ Reverse Engineering Study (2023.09 - 2023.12, 4 months)
 Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)      
        
 `🥜 산학 캡스톤 디자인 프로젝트`
-<img src="https://img.shields.io/badge/reactjs-02569B?style=flat&logo=reactjs&logoColor=white">
-<img src="https://img.shields.io/badge/css-0175C2?style=flat&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/html-FFCA28?style=flat&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">    
 4인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
@@ -36,6 +37,8 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">      
 (2024.03 - 2024.06, 4 months)  
+
+`📌 AWS 개인 프로젝트 (예정)` 
       
 ### *2. Certification* 🏅
 
