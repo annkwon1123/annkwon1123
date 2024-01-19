@@ -2,16 +2,15 @@
 
 ### *1. My Activity* 👀 
    
-`👩‍💻 한양대학교 컴퓨터학부`        
-ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 4학년)
-
-`🏮 우분투 한국 커뮤니티 Ubuntu Korea`     
-2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
-2023 Ubucon Korea [컨퍼런스 후기](https://annkwon1123.tistory.com/46)
-     
-`🔐 보안 학회 Hycube`   
+`👩‍💻 한양대학교 컴퓨터학부` `🔐 보안학회 Hycube` `🎨 UIUX 디자인학회`         
+ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 4학년)    
 Linux kernel Study(2023.03 - 2023.06, 4months)     
-Reverse Engineering Study (2023.09 - 2023.12, 4 months)     
+Reverse Engineering Study (2023.09 - 2023.12, 4 months)    
+
+`🙌 개발자 커뮤니티 활동`     
+2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
+2023 Ubucon Korea (우분투 한국 커뮤니티) [컨퍼런스 후기](https://annkwon1123.tistory.com/46)    
+2023 FISCON (금융보안원) [컨퍼런스 후기](https://blog.naver.com/annkwon11234/223261436560)      
     
 `🏦 하나금융 디지털 파워온 프로젝트 2기`
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
@@ -30,6 +29,7 @@ Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">    
+재단법인 미래와 소프트웨어 제3회 아이디어 공모전 출품     
 4인 개발: Edge Computing을 통한 콘크리트 온습도 수집 및 건설현장 안전관리 플랫폼 개발 [프로젝트 동영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)           
 Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 months)   
 
