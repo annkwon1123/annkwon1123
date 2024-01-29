@@ -45,6 +45,10 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
 `CPMS 프로젝트 경영사` `정보처리기사 (예정)` `AWS Certified Solutions Architect - Associate (예정)`
 `SQLD (예정)` `HSK 5급 (예정)`    
 
+### *3. Algorithm skill* ✍️
+[![코드트리|실력진단-annkwon1123](https://banner.codetree.ai/v1/banner/annkwon1123)](https://www.codetree.ai/profiles/annkwon1123)
+[![Solved.ac 
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=annkwon1123)](https://solved.ac/annkwon1123)
 
 
 <!---
