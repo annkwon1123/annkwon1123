@@ -35,8 +35,7 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.08 - 2024.05, 10 
 `🤖 지능형로봇 융합디자인 혁신인재 양성과정` 
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white">      
-1인 개발    
-(2024.03 - 2024.06, 4 months)  
+4인팀(디자인2,기획1,개발1) 개발자(2024.03 - 2024.06, 4 months)    
 
 ### *2. Certification* 🏅
 
