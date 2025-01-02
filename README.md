@@ -2,8 +2,6 @@
 
 `👩‍💻 한양대학교 컴퓨터학부` `🔐 지능형로봇학과 마이크로전공`       
 ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 2025.02)  
-         
-<br />
 
 `🙌 리눅스 우분투 커뮤니티`     
 2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
@@ -52,8 +50,6 @@ Team 밥4조 Front-end Developer and Web Designer (2024.03 - 2024.06, 4 months)
 `🏅 ADsP (2024.11.29)`    
 
 <br />
-
-## [4] 알고리즘 스터디
 
 [![코드트리|실력진단-annkwon1123](https://banner.codetree.ai/v1/banner/annkwon1123)](https://www.codetree.ai/profiles/annkwon1123)
 [![Solved.ac 
