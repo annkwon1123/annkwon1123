@@ -1,14 +1,9 @@
 # 🌱 컴퓨터 엔지니어 권소연    
 
 `👩‍💻 한양대학교 컴퓨터학부` `🔐 지능형로봇학과 마이크로전공`       
-ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 재학중, 4학년)  
+ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 2025.02)  
          
 <br />
-
-## [1] 센서 데이터 처리 및 가공 - 자율주행 인지     
-
-`🚗 기계공학과 자작차학회 baqu4 자율주행팀`    
-LiDAR SLAM 알고리즘 구현        
 
 `🙌 리눅스 우분투 커뮤니티`     
 2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
@@ -29,20 +24,6 @@ Team 하냥땅콩 Project Manager and Software Developer (2023.07 - 2024.06, 12 
 [최종 결과물1] 웹 사이트 배포 : https://hanyangcapstoneproject.github.io/peanut/         
 [최종 결과물2] 개발 문서 및 활동 내역 : [캡스톤 성과물 최종본.pdf](https://github.com/user-attachments/files/15520744/default.pdf)       
 
-
-`🤖 지능형로봇사업단 신산업 융합팀`      
-4인팀(디자인2,기획1,개발1)      
-Project1: 삼성전자 미래가전사업부 로봇청소기 프로젝트        
-Project2: 도산 안창호 기념관 전시 및 홍보 로봇 기획          
-Team 사색사조 Developer (2024.03 - 2024.08, 6 months) 
-
-<br />
-
-## [2] 웹/앱 프론트엔드 개발 및 디자인 - 금융 디지털    
-
-`🙌 금융 스터디`        
-2023 FISCON (금융보안원) [컨퍼런스 후기](https://blog.naver.com/annkwon11234/223261436560)      
-2024 대학생 연합 주식 투자 동아리 위닝펀드 16-1기      
     
 `🏦 하나금융 디지털 파워온 프로젝트 2기`      
 <img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
@@ -64,15 +45,11 @@ Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)
 7인 개발: 아그리콜라 보드게임 웹 서비스 개발      
 Team 밥4조 Front-end Developer and Web Designer (2024.03 - 2024.06, 4 months)  
 
-<br />
-
-## [3] 전공 관련 자격증
-
 `🏅 CPMS 프로젝트 경영사 자격증 (2023.12.20)`        
 `🏅 정보처리기사 (예정)`     
 `🏅 AWS Certified Solutions Architect - Associate (예정)`     
 `🏅 SQLD (2024.04.05)`      
-`🏅 HSK 5급 (예정)`    
+`🏅 ADsP (2024.11.29)`    
 
 <br />
 
