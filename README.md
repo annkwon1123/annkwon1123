@@ -1,56 +1,40 @@
-# 🌱 컴퓨터 엔지니어 권소연    
+# 🌱 안녕하세요, **증권 IT 개발자** 권소연입니다.
 
-`👩‍💻 한양대학교 컴퓨터학부` `🔐 지능형로봇학과 마이크로전공`       
-ComputerScience Undergraduate at Hanyang University ERICA (2020.03 - 2025.02)  
+단순한 코드 작성이 아닌, **논리적인 사고**와 **컴퓨터 전공 지식**을 바탕으로 **똑똑한 개발**을 지향합니다.
 
-`🙌 리눅스 우분투 커뮤니티`     
-2023 우분투 번역 워크샵 [번역 활동 후기](https://annkwon1123.tistory.com/38)    
-2023 Ubucon Korea (우분투 한국 커뮤니티) [컨퍼런스 후기](https://annkwon1123.tistory.com/46)    
-2024 우분투 코리아 운영진     
+**[ 관심분야 ]** 
+- **증권 시스템 →** MTS, HTS
+- **증권 데이터 분석 →** 
+- **회계 →** 재무제표, 투자의사결정
 
-`🥜 산학 캡스톤 디자인 프로젝트`     
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">     
-3인 개발: 콘크리트 경화 과정에서의 굳기 정도를 활용한 **건설현장 안전사고 예방 플랫폼**            
+**[ 개발언어 ]**
+- **C/C++ ⭐️⭐️⭐️ →** 알고리즘 구현       
+- **Python ⭐️⭐️ →** 데이터 분석       
+- **JavaScript ⭐️ →**  Next.js / Node.js 플랫폼 개발   
+
+**[ 경력 ]**  
+- **증권 시스템 개발자 →** 2025.05 ~    
+- **우분투 코리아 운영진 →** 2024.03 ~     
+
+**[ 학력 ]**
+- **한양대학교 ERICA** `👩‍💻컴퓨터학부` **→**  2020.03 - 2025.02         
+
+**[ 프로젝트 ]**       
+- **건설현장 안전사고 예방 플랫폼**  3인 개발: 콘크리트 경화 과정에서의 굳기 정도를 활용한 IoT 플랫폼 `🥜 산학 캡스톤 디자인 프로젝트`          
 Team 하냥땅콩 Project Manager and Software Developer (2023.07 - 2024.06, 12 months)      
-[중간 산출물] 기획 및 설계 발표 : [유튜브 영상](https://youtu.be/oOvU3STKEfo?si=o6t9rpWCAKjb8X2g)        
-[최종 결과물1] 웹 사이트 배포 : https://hanyangcapstoneproject.github.io/peanut/         
-[최종 결과물2] 개발 문서 및 활동 내역 : [캡스톤 성과물 최종본.pdf](https://github.com/user-attachments/files/15520744/default.pdf)       
 
-    
-`🏦 하나금융 디지털 파워온 프로젝트 2기`      
-<img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
-<img src="https://img.shields.io/badge/openai-412991?style=flat&logo=openai&logoColor=white">     
-아마존 클라우드(AWS) 공인교육 - 디지털금융인재 양성과정 중 일부     
-3인 개발: 소비데이터 분석기반 마케팅 서비스 개발 [AiFi의 WiFi블로그](https://blog.naver.com/annkwon11234)   
+- **소비데이터 분석기반 마케팅 서비스**  3인 개발: 소비데이터 분석기반 마케팅 서비스 개발 `🏦 하나금융 디지털 파워온 프로젝트 2기`          
 Team AiFi(AI + Finance) Project Manager (2023.07 - 2023.12, 6 months)      
 
-`🃏 소프트웨어공학 아그리콜라 보드게임`       
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">       
-7인 개발: 아그리콜라 보드게임 웹 서비스 개발      
+- **아그리콜라 보드게임**  7인 개발: 아그리콜라 보드게임 웹 서비스 개발   `🃏 소프트웨어공학`          
 Team 밥4조 Front-end Developer and Web Designer (2024.03 - 2024.06, 4 months)  
 
-`🏅 CPMS 프로젝트 경영사 자격증 (2023.12.20)`        
-`🏅 정보처리기사 (예정)`     
-`🏅 AWS Certified Solutions Architect - Associate (예정)`     
-`🏅 SQLD (2024.04.05)`      
-`🏅 ADsP (2024.11.29)`    
+**[ 연락처 ]**
+- **[노션 이력서](https://www.notion.so/Kwon-Soyeon-1d87de942b6e80d78dcfe6f70328e02f)**     
+- **[블로그](https://annkwon1123.tistory.com/)**     
+- **[링크드인](https://www.linkedin.com/in/annkwon1123/)**       
 
 <br />
 
-[![코드트리|실력진단-annkwon1123](https://banner.codetree.ai/v1/banner/annkwon1123)](https://www.codetree.ai/profiles/annkwon1123)
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=annkwon1123)](https://solved.ac/annkwon1123)
